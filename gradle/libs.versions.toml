@@ -6,7 +6,7 @@ android-build = "8.13.2"
 androidx-core = "1.17.0"
 androidx-annotation = "1.9.1"
 
-kotlin = "2.3.0"
+kotlin = "2.3.10"
 dokka = "2.1.0"
 jgitver = "0.10.0-rc03"
 ksp = "2.3.5"
